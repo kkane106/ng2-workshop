@@ -20,6 +20,7 @@
 ### [LABS!][labs]
 * Core Setup (uses cdn for dependencies): [Lab1][lab1]
 * Creating and Components and importing them to modules: [Lab2][lab2]
+* Data binding: [Lab3][lab3]
 
 [docs]:https://angular.io/docs/ts/latest/api
 [slides]:https://docs.google.com/presentation/d/1jvMY7bmtIgUSCKquCxCD6vH1635sYVMKtAmC0f6cKb4/edit
@@ -27,4 +28,4 @@
 [labs]:http://codewithdan.me/ng2workshoplabs
 [lab1]:http://plnkr.co/edit/zbNBH3dUWSpsWSNGKwWN
 [lab2]:http://plnkr.co/edit/IQDUlBwktRwH0fKILbuH
-
+[lab3]:http://plnkr.co/edit/UB8oGALrJu52cELobbko
