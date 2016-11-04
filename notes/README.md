@@ -155,6 +155,33 @@ PEOPLE.forEach((person) => person.getDetails());
 
 PEOPLE.forEach((person) => console.log(person.getName()));
 ```
+  
+### Destructuring with TypeScript
+* Shortcut syntax to create multiple variables and assign values to them.
+  
+```js
+var [red, blue, green] = ['red', 'blue', 'green'];
+alert(red)
+```
+  
+* Also possible to destructure objects and store the property values into variables in the scope with some namespace assigned
+  
+```js
+var {fname, city} = {fname : 'Jim', city: 'Denver'};
+alert(city)
+```
+  
+* Will produce TypeError if the value attempting to be destructured is `undefined`: e.g.
+  
+```js
+var test = function() {
+  return undefined;
+}
+
+var {fname, city} = test();
+// TypeError
+```
+
 
 [ts]:http://www.typescriptlang.org/docs/tutorial.html
 [ES6demo]:https://github.com/DanWahlin/ES6Samples
