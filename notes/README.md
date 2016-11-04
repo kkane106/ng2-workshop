@@ -270,7 +270,18 @@ timer.startTimer();
 <input [(ngModel)]="story.name" />
 ```
   
-
+* **OBJECTIVE**: In removing so many directives was to use HTML instead of trying to side step HTML
+  * Removed ~43 directives by binding to the actual events and properties in HTML
+  
+* Services are services are services...Ng2 simplified this! They are all Classes.
+  
+```js
+export class MyService { }
+```
+  
+### [LABS!][labs]
+* Core Setup (uses cdn for dependencies): [Lab1][lab1]
+  
 
 
 [ts]:http://www.typescriptlang.org/docs/tutorial.html
@@ -279,3 +290,5 @@ timer.startTimer();
 
 [demoapp]:https://github.com/danwahlin/angular2-jumpstart
 [johndemo]:https://github.com/johnpapa/event-view
+[labs]:http://codewithdan.me/ng2workshoplabs
+[lab1]:http://plnkr.co/edit/zbNBH3dUWSpsWSNGKwWN
