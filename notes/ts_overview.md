@@ -175,3 +175,6 @@ timer.startTimer();
 ```
   
 * Single line arrow functions automatically return the value to the right of the fat arrow. Multi-line (in a block) arrow functions do not have the implicit return for the line (they default to `undefined` like normal js functions).
+
+[ts]:http://www.typescriptlang.org/docs/tutorial.html
+[ES6demo]:https://github.com/DanWahlin/ES6Samples

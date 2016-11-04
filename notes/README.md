@@ -19,21 +19,11 @@
   
 ### [LABS!][labs]
 * Core Setup (uses cdn for dependencies): [Lab1][lab1]
-  
+* Creating and Components and importing them to modules: [Lab2][lab2]
 
-
-  
-
-
-
-
-[ts]:http://www.typescriptlang.org/docs/tutorial.html
-[ES6demo]:https://github.com/DanWahlin/ES6Samples
+[docs]:https://angular.io/docs/ts/latest/api
 [slides]:https://docs.google.com/presentation/d/1jvMY7bmtIgUSCKquCxCD6vH1635sYVMKtAmC0f6cKb4/edit
 
-[demoapp]:https://github.com/danwahlin/angular2-jumpstart
-[johndemo]:https://github.com/johnpapa/event-view
 [labs]:http://codewithdan.me/ng2workshoplabs
 [lab1]:http://plnkr.co/edit/zbNBH3dUWSpsWSNGKwWN
-[docs]:https://angular.io/docs/ts/latest/api
-[barebones]:https://github.com/danwahlin/angular2-barebones
+[lab2]:http://plnkr.co/edit/IQDUlBwktRwH0fKILbuH

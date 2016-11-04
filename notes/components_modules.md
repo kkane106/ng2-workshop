@@ -203,3 +203,5 @@ import { HttpModule } from '@angular/http';
 })
 export class AppModule {}
 ```
+
+[barebones]:https://github.com/danwahlin/angular2-barebones
