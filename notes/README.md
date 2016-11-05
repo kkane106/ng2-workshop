@@ -13,7 +13,7 @@
 * [Modules (es6 & ng2), Components, Templates](components_modules.md)
 * [Binding and Directives](bindings_directives.md)
 * [Services / Providers, DI](services_di.md)
-* [Http -> `Promise` and RxJS based](http.md)
+  * Http -> `Promise` and RxJS based
 * [Routing -> child routes, lazy loading etc..](routing.md)
 * Forms
   
